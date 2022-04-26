@@ -16,19 +16,11 @@ Existen repositorios de código tanto para Swift/iOS como para Kotlin/Android en 
 
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Repositorio%20público%20retos%20Kotlin/Android&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
 
-### Requisitos mínimos
-
-[![Swift](https://img.shields.io/badge/Swift-5-orange.svg?longCache=true&style=popout-square)](https://swift.org)
-
-[![Xcode](https://img.shields.io/badge/Xcode-13-blue.svg?longCache=true&style=popout-square)](https://developer.apple.com/xcode)
-
-[![iOS](https://img.shields.io/badge/iOS-15-red.svg?longCache=true&style=popout-square)](https://www.apple.com/es/ios)
-
-## Vídeo explicación retos
+### Vídeo explicación retos
 
 <a href="https://youtu.be/14v4IINunvY"><img src="http://i3.ytimg.com/vi/14v4IINunvY/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
 
-## Listado de retos
+### Listado de retos
 * **#0** - 27/12/21 - `EL FAMOSO "FIZZ BUZZ"`
 * **#1** - 03/01/22 - `¿ES UN ANAGRAMA?`
 * **#2** - 10/01/22 - `LA SUCESIÓN DE FIBONACCI`
